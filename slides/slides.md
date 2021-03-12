@@ -40,12 +40,6 @@
 + Thessalonika: prov. **capital** of Macedonia
   + **wealthy** port at ix of 2 major trade routes
 + Ac17: Paul only **3wks**: Philippi - Thess - Berea
-<!--
-+ Though **Jews** of Thess more **strongly** oppo
-  + to gospel than in those in Berea, but
-+ **Believers** in Thess (mostly Gentile) were
-  + a positive **example** to all Maced + Achaea
--->
 + 1Thes **encourage**, very little **rebuke** (cf Cor, Gal!)
   + "**Thankful** as remember you" / "as you **know**"
   + "don't need anyone **remind** you" / "**continue** to do"
