@@ -26,6 +26,7 @@
 + faith: not strength of conviction
   + but trust in God's promises
   + builders build in vain
++ pandemic WFH: tired but don't feel productive? 
 
 #### ii. Toil of the Love
 + hard work, labour, difficulty
@@ -33,12 +34,14 @@
 + but internally motivated by love: 
   + see others as worthy of acts of service
   + for sake of sharing God's love
++ serve God bc have to or get to? 
 
 #### iii. Perseverance of the Hope
 + remain/endure under pressure / stress
 + steadfastness of holding the course God set
   + not stubbornness / selfishness for own goal
 + bc assurance of eternal, living hope
++ what hope helps me persevere? 
 
 ### B. Calling (v4-5)
 + election, select, chosen out and for a purpose
@@ -47,6 +50,12 @@
   + HS
   + much bearing-fullness
 + How Paul et al were amongst them, on their account
++ power of HS as confirmation of renewal:
+  + Cornelius, those w/only baptism of John
++ not spectacle nor emotion, but
+  + boldness + honesty to proclaim Christ's glory
+  + humility to recv forgiveness + to forgive
++ have i seen HS's power with preaching of gospel? 
 
 ### C. Example (v6-10)
 #### i. Mimic (v6-8)
@@ -60,4 +69,5 @@
 + Turned from Idols
 + Serve the Living+True God
 + Await Jesus
-
++ Q: whose faith has impacted me? 
+  + Does my faith impact others? 
