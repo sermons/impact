@@ -132,7 +132,8 @@ You know what **kind** of men we proved <br>
 to be among you for your sake. 
 
 [6](# "ref")
-And you became **imitators** of us and of the Lord, 
+And you became **imitators** of us <br>
+and of the Lord, 
 
 [1 Thessalonians 1:5-6 (ESV)](# "ref")
 
@@ -162,16 +163,39 @@ the believers in Macedonia and in Achaia.
 + **attitude** with which we listen (even now!)
 + **seed** does not bounce off **hardened** earth
   + nor shallow, rocky soil without perseverance
++ Example: **type**, strike, deliver a blow, impression
+  + typical, prototype, archetype
 
 ---
-8 For not only has the word of the Lord sounded forth from you in Macedonia and Achaia, 
+For not only has the **word** of the Lord <br>
+**sounded forth** from you in Macedonia and Achaia, <br>
+but your **faith** in God has **gone forth** everywhere, <br>
+so that we need not say anything.
 
+[1 Thessalonians 1:8 (ESV)](# "ref")
 
-+ Type/example for believers:
-  + Word of the Lord resounds outward
-  + Faith toward God goes outward
+>>>
++ Word of the Lord resounds outward
++ Faith toward God goes outward
 
-#### ii. Work of God (9-10)
+---
+For they themselves report concerning us <br>
+the kind of **reception** we had among you, 
+
+and how you turned to God from **idols** <br>
+to serve the **living** and **true** God, 
+
+[1 Thessalonians 1:9-10 (ESV) (p.1/2)](# "ref")
+
+---
+[10](# "ref")
+and to **wait** for his Son from heaven, <br>
+whom he raised from the dead, Jesus <br>
+who **delivers** us from the wrath to come.
+
+[1 Thessalonians 1:9-10 (ESV) (p.2/2)](# "ref")
+
+>>>
 + reception: inroad
 + Turned from Idols
 + Serve the Living+True God
@@ -182,6 +206,3 @@ the believers in Macedonia and in Achaia.
   + or doing acts of charity
 + but let Word of God sound forth
   + and our faith in God go out
-
-
-but your faith in God has gone forth everywhere, so that we need not say anything. 9 For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God, 10 and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come.
