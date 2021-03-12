@@ -3,9 +3,8 @@
 ## 1 Thessalonians 1:2-10
 
 >>>
-## 1. Believers' Example (ch1)
-### Background
-+ Thess: capital of Macedon province, wealthy port on Aegean, 2 major trade routes: Rome-Byz and Danube-Aegean, large Jewish pop
++ Thessalonika: capital of Macedon province
+  + wealthy port on Aegean, ix 2 major trade routes
 + Ac17: Paul only there 3wks: Philippi - Thess - Berea
 + Though **Jews** of Thess stronger oppos than in Berea, but
   + **Believers** in Thess (mostly Gentile) became example to all Mac+Ach
@@ -45,7 +44,7 @@ but the greatest of these is **love**.
 [1 Corinthians 13:13 (ESV)](# "ref")
 
 ---
-## 1 Thessalonians:
+## 1 Thessalonians
 ### Growing Together, Even When Apart
 + 1: Impact of **Faith** (Thes)
 + 2a+b: Toil of **Love** (Paul)
@@ -117,7 +116,6 @@ and with **full conviction**.
   + power
   + HS
   + much bearing-fullness
-+ How Paul et al were amongst them, on their account
 + power of HS as confirmation of renewal: Ac10:44-46a
 + not spectacle nor emotion, but
   + boldness + honesty to proclaim Christ's glory
@@ -168,8 +166,11 @@ the believers in Macedonia and in Achaia.
 
 ---
 For not only has the **word** of the Lord <br>
-**sounded forth** from you in Macedonia and Achaia, <br>
-but your **faith** in God has **gone forth** everywhere, <br>
+**sounded forth** from you <br>
+in Macedonia and Achaia,
+
+but your **faith** in God <br>
+has **gone forth** everywhere, <br>
 so that we need not say anything.
 
 [1 Thessalonians 1:8 (ESV)](# "ref")
@@ -197,9 +198,12 @@ who **delivers** us from the wrath to come.
 
 >>>
 + reception: inroad
-+ Turned from Idols
-+ Serve the Living+True God
-+ Await Jesus
++ our faith journey:
+  + Turned from Idols
+  + Serve the Living+True God
+  + Await Jesus
++ learn by example: WFH, son's desk next to mine:
+  + when frustrated: "arrrgh!"
 + Q: whose faith has impacted me? 
   + Does my faith impact others? 
 + not just inviting to church
