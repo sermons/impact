@@ -3,25 +3,63 @@
 ## 1 Thessalonians 1:2-10
 
 >>>
-+ Thessalonika: prov. capital of Macedonia
-  + wealthy port at ix of 2 major trade routes
-+ Ac17: Paul only there 3wks: Philippi - Thess - Berea
++ **miss** you, want to hear what **God's** been doing in your life
+  + even in pandemic -- or **especially** during pandemic!
++ but can be **hard** to think of specific examples, and
+  + even harder to think of ways in which **I've** made diff to others
++ "I'm stuck at **home**, ... on **computer** a lot ..."
+  + am I **doing** anything w/my life?
+
+---
+<!-- .slide: data-background="white" -->
+# **How** do I make a **difference** in others' lives?
+
+>>>
++ chose series on 1Thes to **encourage** you:
+  + though **apart**, keep **growing** together
++ But we need encouragement to be **specific**:
+  + "Keep up good work!" -- oh thx, what work?
+  + "You're so **cute**!" -- arrghh...
+  + "You're a **good** person and **mean** well?" -- kinda vague
++ Encouragement from today's passage very specific:
+  + so we know what successes to **thank** God for
+  + and what **goals** we need to continue **pursuing**
++ How we **heard** gospel + **responded** to it
+
+---
+## (prayer)
+>>>
++ Come to receive the **Word**: not Sean's word / wisdom
+  + but Word of the **living** + true God
+  + the Word which **pierces** our own souls
++ the Word which calls us to **behold the Lamb** of God
+
+---
+## (Thessalonika)
+>>>
++ Thessalonika: prov. **capital** of Macedonia
+  + **wealthy** port at ix of 2 major trade routes
++ Ac17: Paul only there **3wks**: Philippi - Thess - Berea
 + Though **Jews** of Thess stronger oppos than in Berea, but
   + **Believers** in Thess (mostly Gentile) became example to all Mac+Ach
 + 1Thes **encouragement**, very little **rebuke** (cf Cor, Gal!)
   + **thankful** as remember you
   + you **know**, don't need anyone to **remind** you, **continue** doing
-+ We need encouragement to be **specific**:
-  + "Encourage you: you're **cute**!" arrghh...
-  + bc **good** person and **mean** well? kinda vague
-+ How we **heard** gospel + **responded** to it
++ Starts out (as often does) w/**thanksgiving** for Thess:
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## Impact of Faith (1Thes1)
-1. Work (v2-3)
-1. Calling (v4-5)
+## Impact of Faith [(1Thes1)](# "ref")
+1. Energy (v2-3)
+1. Election (v4-5)
 1. Example (v6-10)
+
+>>>
+1. Thanks God for **work** Thess have been doing
+2. Expresses confid in God's **calling** of Thess
+  + demonstrated by HS in power
+3. Highlights **impact** Thess make on believers everywhere
+  + through their journey of faith
 
 ---
 We give **thanks** to God always for all of you,<br>
@@ -36,13 +74,18 @@ in our Lord Jesus Christ.
 [1 Thessalonians 1:2-3 (ESV)](# "ref")
 
 >>>
-+ faith - hope - love
++ **remember** in prayers: when think of you, **thankful**
++ faith - hope - love: end of **1Cor13**
 
 ---
 So now **faith**, **hope**, and **love** abide, these three;<br>
 but the greatest of these is **love**.
 
 [1 Corinthians 13:13 (ESV)](# "ref")
+
+>>>
++ in fact, these three are echoed throughout 1Thess
++ form a rough **outline** for the series:
 
 ---
 ## 1 Thessalonians
@@ -56,6 +99,7 @@ but the greatest of these is **love**.
 
 >>>
 + 1-3 thanksgiving, 4-5 instruction
++ in ch1, all 3 refer to some aspect of the Thess' **work**:
 
 ---
 **remembering** before our God and Father <br>
@@ -64,11 +108,25 @@ your **work** of **faith**
 [1 Thessalonians 1:3 (ESV)](# "ref")
 
 >>>
-+ work: **productivity**, accomplish, output
++ work (energy): **productivity**, accomplish, output
 + faith: not strength of **our** conviction
   + but trust in **God's** promises
-  + builders build in vain
++ What's the **secret** to productivity?
+
+---
+Unless the Lord **builds** the house,<br>
+those who build it **labor** in vain.
+
+Unless the Lord **watches** over the city,<br>
+the watchman stays **awake** in vain.
+
+[Psalm 127:1 (ESV)](# "ref")
+
+>>>
 + pandemic **WFH**: tired but don't feel productive? 
++ the **work** of the **faith**:
+  + searching Scrip for God's **promises**
+  + and **acting** accordingly
 
 ---
 and **labor** of **love** 
@@ -76,17 +134,16 @@ and **labor** of **love**
 [1 Thessalonians 1:3 (ESV)](# "ref")
 
 >>>
-+ labour: **toil**, hard work, difficulty
++ labour (debilitating blow): **toil**, hard work, difficulty
 + e.g., son struggling to understand **2D rotations** in math:
   + "**why** should I learn math?": "to get a **job**..."
-  + but ... that's **not** the real reason to work hard --
-+ not from **external** motivation: 
++ but really, work should not be bc **external** motivation: 
   + obligation, **fear** of punish, **transaction** for reward
 + but **internally** motivated by **love**: see others as 
   + **worthy** of acts of svc for sake of sharing **God's** love
 + **Math** is part of it! Dev useful **skills** to put love in **action**
   + e.g., friend is **overwhelmed**: life spinning out of control
-+ **Thoughts** + prayers are good, but so is **practical** help:
++ **Thoughts** + hugs are good, but so is more **practical** help:
   + "Yes, life is complicated: let's start w/what we **do** know,
   + "and work from there to make sense of what we **don't** understand"
 
@@ -97,15 +154,17 @@ in our Lord Jesus Christ.
 [1 Thessalonians 1:3 (ESV)](# "ref")
 
 >>>
-+ persevere: remain/endure under pressure / stress
-+ to hold course God set
-  + not stubbornness / selfishness for own goal
-+ bc assurance of eternal, living hope
-+ what hope helps me persevere? 
++ **persevere**: remain/endure under
+  + e.g., pressure / stress
+  + stay the course
++ diff w/**stubbornness**: who sets the **goal**?
+  + **my** goal I persevere in? that's just **selfishness**
+  + **God's** reward for those who persevere in obeying?
++ He is **faithful**, so we have an eternal, living **hope**
 
 ---
 <!-- .slide: data-background="white" -->
-## Is my **work** driven by **faith, hope, and love**?
+# Is my **work** driven by **faith, hope, and love**?
 
 >>>
 + Gain **productivity** from faith in God's promises
@@ -113,7 +172,16 @@ in our Lord Jesus Christ.
 + **Persevere** in serving Him bc of assurance of **hope**
 
 ---
-## (outline 2)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Impact of Faith [(1Thes1)](# "ref")
+1. Energy (v2-3)
+1. **Election** (v4-5)
+1. Example (v6-10)
+
+>>>
+1. Paul **thanks** God, remembering Thess' **work** in faith
+2. Expresses **confid** in God's **calling** of Thess:
+  + assurance of their salvation
 
 ---
 For we know, brothers loved by God, <br>
@@ -130,13 +198,13 @@ and with **full conviction**.
 >>>
 + chosen: **election**, selected **out** and for a **purpose**
 + Gospel came with:
-  + **power**: not just philosophical debate
-  + **HS**: not gen by human conviction/emotion
-  + much bearing-**fullness**: not about strength of convic/trust
-    + but doing sth **completely**, not halfway:
-    + **preach** whole gospel, not just comfort part
-    + **believe** whole gospel, even hard passages
-    + **obey** w/whole life, every area/rl
++ **power**: not just philosophical debate
++ **HS**: not gen by human conviction/emotion
++ much bearing-**fullness**: not about strength of convic/trust
+  + but doing sth **completely**, not halfway:
+  + **preach** whole gospel, not just comfort part
+  + **believe** whole gospel, even hard passages
+  + **obey** w/whole life, every area/rl
 + power of HS as **confirmation** of renewal: Ac10
 
 ---
@@ -147,7 +215,8 @@ the **Holy Spirit** fell on all who **heard** the word.
 
 ---
 [45](# "ref")
-And the **believers** from among the circumcised <br>
+And the **believers** <br>
+from among the circumcised <br>
 who had come with Peter were **amazed**,
 
 because the **gift** of the Holy Spirit <br>
@@ -167,24 +236,34 @@ speaking in **tongues** and **extolling** God.
   + **intelligible**, human languages
   + proclaiming the **gospel** + **praise** of God
 + extol: make **great**, declare greatness
-+ purpose is not **spectacle** nor emotion, but
-  + **boldness** + authenticity in proclaiming Christ's **glory**
++ purpose is not **spectacle** nor indulging emotion, but
+  + **boldness** + authenticity in proclaim Christ's **glory**
 + I **know** Christ has chosen to **rescue** me --
   + and I know I have chosen to **turn** from my own way
   + and to **follow** Him!
 + So Peter says: we've got to **baptise** these folks!
-  + **assurance** of God's **calling**
+  + HS is **assurance** of God's **calling**
 
 ---
 <!-- .slide: data-background="white" -->
-## Have I experienced the **Holy Spirit's** power as the gospel is proclaimed?
+# Have I experienced the **Holy Spirit's** power as the gospel is proclaimed?
 
 >>>
 + Whether I'm the **hearer** or the **proclaimer**
-+ humility to recv forgiveness + to forgive
++ humility to recv **forgiveness** + to **forgive**
 
 ---
-## (outline 3)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Impact of Faith [(1Thes1)](# "ref")
+1. Energy (v2-3)
+1. Election (v4-5)
+1. **Example** (v6-10)
+
+>>>
+1. Energy: **work** we do serving God motiv by **FHL**
+1. Election: God **chose** us as His own; we know this by his **HS**
+1. Example: we've followed **others'** example in rcv Word of God
+  + and our **journey of faith** sets example for others
 
 ---
 You know what **kind** of men we proved <br>
@@ -197,15 +276,14 @@ and of the Lord,
 [1 Thessalonians 1:5-6 (ESV)](# "ref")
 
 >>>
-+ kind: what sort, how
-  + proved: just "became"
-  + not specifically actions, words, special effort
-  + but how we live: person, character, habits
-+ imitators: emulate, mimic, positive admiration
-  + not only of Paul, but the Lord
-+ in both Word and Works:
++ kind: what sort, **how** ("proved": simply "became")
+  + not specifically actions, words, or **special** effort
+  + but how we **live**: person, character, habits
++ imitators (mimic): **emulate**, positive admiration
+  + not only of Paul, but the **Lord**
++ in both **Word** and **Works**:
   + how received + proclaimed Word of God
-  + testimony of God's Work in changing us
+  + testimony of God's Work as He causes us to grow
 
 ---
 for you **received** the word in much **affliction**, <br>
@@ -221,8 +299,11 @@ the believers in Macedonia and in Achaia.
 + part of how we impact others is how we **receive** Word of God:
 + **attitude** with which we listen (even now!)
   + **seed** does not bounce off **hardened** earth
-+ Example: **type**, strike, deliver a blow, impression
-  + typical, prototype, archetype
++ rcv w/**obedience**, knowing may endure **suffering** for it
+  + suffer not w/**bitterness** of soul, but **joy** of HS
++ Example (**type**): strike, deliver a blow, impact
+  + made an **impression** w/how we **hear** the Word of God
++ and how it **echoes** out from us:
 
 ---
 For not only has the **word** of the Lord <br>
@@ -236,8 +317,8 @@ so that we need not say anything.
 [1 Thessalonians 1:8 (ESV)](# "ref")
 
 >>>
-+ **Word** of the Lord resounds outward
-+ **Faith** toward God goes outward: works
++ **Word** of the Lord resounds outward (echo)
++ **Faith** toward God goes outward
 
 ---
 For they themselves report concerning us <br>
@@ -246,35 +327,36 @@ the kind of **reception** we had among you,
 and how you turned to God from **idols** <br>
 to serve the **living** and **true** God, 
 
-[1 Thessalonians 1:9-10 (ESV) (p.1/2)](# "ref")
+[1 Thessalonians 1:9 (ESV)](# "ref")
 
 ---
-[10](# "ref")
 and to **wait** for his Son from heaven, <br>
 whom he raised from the dead, Jesus <br>
 who **delivers** us from the wrath to come.
 
-[1 Thessalonians 1:9-10 (ESV) (p.2/2)](# "ref")
+[1 Thessalonians 1:10 (ESV)](# "ref")
 
 >>>
 + faith **journey**:
-  + Turned from **Idols**
-  + Serve the **Living** + True God
-  + **Await** Jesus
+  + Turned from **Idols** (past)
+  + Serve the **Living** + True God (present)
+  + **Await** Jesus (future)
 + Past: idol: anything we **cherish** / pursue more than we do God
-  + seeking others' **approval**: "say I'm a good person!"
+  + seeking others' **approval**: "tell me I'm a good person!"
   + science, human **intellect**: "if not observable, then not true"
   + **perfection** in others, rl, or even self:
-    + "don't you dare say anything bad about my kid / marriage / parents"
+    + "don't you dare insinuate anything bad 
+    + "about my kid / marriage / parents"
 
 ---
 >>>
-+ Present: God is source of **life**, gives us renewed life
++ Present: serve **living** + **true** God:
+  + God is source of **life** + gives us renewed life
   + His Word is **truth**: guides us in wisdom
   + so we commit to a **servant's** life in obedience
-+ Future: Jesus rose, ascended, will **return**:
-  + so we **wait**: not just any waiting, unique word:
-  + **rising** wait until completion: increasing eagerness
++ Future: Jesus resurrected, ascended, will **return**:
+  + so we **wait**: not just any waiting, unique word in NT:
++ **rising** wait until completion: increasing eagerness
   + not **passive**, killing time
   + but in full **assurance** of hope, acting accordingly
 + How has our faith **journey** impacted others?
@@ -292,15 +374,25 @@ who **delivers** us from the wrath to come.
   + how **proud** + **resentful** + **fractured** we all are
 + To find **healing** + **hope** in the living + true God,
   + to **experience** forgiveness + **show** it to others:
-  + it truly makes an **impact**!
++ it truly makes an **impact**!
 
 ---
 <!-- .slide: data-background="white" -->
-## Whose **faith journey** has impacted me? 
-## Does **my** faith in Christ impact **others**? 
+## Whose **faith journey** <br> has impacted me? 
+## How does **my** faith in Christ <br> impact **others**? 
 
 >>>
 + Need not be **long-term** mentor: Paul w/Thess very **short** time!
   + but made profound **impact**, and Thess in turn to whole **region**
 + Let **Word** of God resound outward
   + and let our **works** of faith in God go outward
+______
++ Your **Word** never returns to you in **vain**
++ We've **rcvd** it in hearts: came w/**power**, HS, abund fullness
++ Equip us to **accomplish** much in faith, **toil** out of love,
+  + **persevere** bc living hope in You
++ As we **imitate** You and those who have shared the Word w/us,
+  + may Your Word **echo** outward from us
++ May others see our faith **journey**: past, present, future
+  + To make an **impact** on those around us
+
