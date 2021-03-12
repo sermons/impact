@@ -12,7 +12,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# **How** do I make a **difference** in others' lives?
+# **How** do I <br> make a **difference** <br> in others' lives?
 
 >>>
 + chose series on 1Thes to **encourage** you:
@@ -166,7 +166,7 @@ in our Lord Jesus Christ.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is my **work** driven by **faith, hope, and love**?
+# Are my **actions** driven by **faith**, **hope**, and **love**?
 
 >>>
 + Gain **productivity** from faith in God's promises
