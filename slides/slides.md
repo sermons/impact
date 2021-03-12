@@ -89,7 +89,7 @@ but the greatest of these is **love**.
 
 ---
 ## 1 Thessalonians
-### Growing Together, Even When Apart
+### Growing Together, While Apart
 + 1: Impact of **Faith** (Thes)
 + 2a+b: Toil of **Love** (Paul)
 + 3: Strength from **Hope** (Tim's report)
@@ -98,6 +98,8 @@ but the greatest of these is **love**.
 + 5b: Acts of **Faith**
 
 >>>
++ although Paul was unable to **visit** them in person
+  + but deeply **connected** in HS
 + 1-3 thanksgiving, 4-5 instruction
 + in ch1, all 3 refer to some aspect of the Thess' **work**:
 
