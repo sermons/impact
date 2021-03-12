@@ -158,10 +158,9 @@ and **labor** of **love**
 + but **internally** motivated by **love**: 
   + others are **worthy** of acts of service
   + for sake of **sharing** God's love
-+ **Math** is part of it!
-  + Dev useful **skills**: love in **action**
++ **Math** is part of it! Dev useful **skills**: love in **action**
 + e.g., friend is **overwhelmed**: life spinning out of control
-  + **Thoughts** + hugs are needed, but so is more **practical** help:
+  + **Thoughts** + hugs are needed, but also **practical** help:
 + "Life is **complicated**: let's start w/what we **do** know,
   + "to make sense of what we **don't** understand"
 + **Inductive** reasoning, mathematical **modelling**
@@ -182,7 +181,7 @@ in our Lord Jesus Christ.
 
 ---
 <!-- .slide: data-background="white" -->
-# Are my **actions** driven by **faith**, **hope**, and **love**?
+# Are my **actions** driven by God's **faith**, **hope**, and **love**?
 
 >>>
 + Gain **productivity** from faith in God's promises
@@ -220,7 +219,7 @@ and with **full conviction**.
 + Gospel came with:
 + **Power**: not just philosophical debate
 + **HS**: not gen by human conviction/emotion
-+ Much bearing-**fullness**: not about strength of convic/trust
++ Much bearing-**fullness**: not strength of convic/trust
   + but doing sth **completely**, not halfway:
 + **Preach** whole gospel, not just comfort part
   + **Believe** whole gospel, even hard passages
@@ -393,34 +392,33 @@ who **delivers** us from the wrath to come.
 + Learn by example: e.g., WFH, son's **desk** next to mine:
   + when **frustrated**: "arrrgh!"
 + You **already** make an impact, even just in daily life!
-+ e.g., wife driving, **car battery** died: pushed mid parking lot
++ e.g., wife **car battery** died: pushed mid parking lot
   + got **nasty** looks!  Son said, "so **humiliating**"
 + How do you **deal** with anger or disdain directed at you?
   + (folks working **retail** or CSR know!)
-+ Pandemic reveal true **colours** as society:
-  + just **beneath** surface,
++ Pandemic reveal true **colours** as society: **beneath** sfc,
   + how **proud** + **resentful** + **fractured** we all are
-+ To find **healing** + **hope** in the living + true God,
++ So to find **healing** + **hope** in living + true God,
   + to **experience** forgiveness + **show** it to others:
 + it truly makes an **impact**!
 
 ---
 <!-- .slide: data-background="white" -->
 ## Whose **faith journey** <br> has impacted me? 
-## How does **my** faith in Christ <br> impact **others**? 
+## How does my faith in Christ <br> **impact** others? 
 
 >>>
-+ Needn't be **long-term** mentor: Paul w/Thess very **short** time!
-  + but profound **impact**, and Thess in turn to whole **region**
++ Needn't be **long-term** mentor: e.g., Paul w/Thess
++ but profound **impact**: Thess in turn to whole **region**
 + Let **Word** of God resound outward
   + and let our **works** of faith in God go outward
 ______
-+ Your **Word** never returns to you in **vain**
-+ We've **rcvd** it in hearts: came w/**power**, HS, abund fullness
-+ Equip us to **accomplish** much in faith, **toil** out of love,
++ Your **Word** never returns to you in **vain**:
+  + came w/**power**, HS, abundant fullness
++ Equip us to **accomplish** much in faith, **toil** in love,
   + **persevere** bc living hope in You
-+ As we **imitate** You and those who have shared the Word w/us,
++ As we **imitate** You + those who've shared Word w/us,
   + may Your Word **echo** outward from us
-+ May others see our faith **journey**: past, present, future
-  + To make an **impact** on those around us
++ May others see faith **journey**: past, present, future
+  + May it make an **impact** on those around us
 
