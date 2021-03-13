@@ -35,7 +35,7 @@
 + the Word which lets us **behold the Lamb** of God
 
 ---
-<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_the_Apostle%2C_second_missionary_journey.svg" class="empty" -->
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_the_Apostle,_second_missionary_journey.svg" class="empty" -->
 [Roberto Reggi](https://commons.wikimedia.org/wiki/File:Paul_the_Apostle,_second_missionary_journey.svg "caption")
 
 >>>
