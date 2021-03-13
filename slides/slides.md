@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> id="title" -->
 # The Impact of Faith
 ## 1 Thessalonians 1:2-10
 
@@ -35,7 +35,9 @@
 + the Word which lets us **behold the Lamb** of God
 
 ---
-## (Thessalonika)
+<!-- .slide: <%= bg("https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_the_Apostle%2C_second_missionary_journey.svg") %> class="empty" -->
+[Roberto Reggi](https://commons.wikimedia.org/wiki/File:Paul_the_Apostle,_second_missionary_journey.svg "caption")
+
 >>>
 + Thessalonika: prov. **capital** of Macedonia
   + **wealthy** port at ix of 2 major trade routes
@@ -47,7 +49,7 @@
   + **thanksgiving** for Thess:
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> id="outline" class="outline" -->
 ## Impact of Faith [(1Thes1)](# "ref")
 1. **Energy** [(v2-3)](# "ref")
 1. **Election** [(v4-5)](# "ref")
@@ -91,6 +93,7 @@ but the greatest of these is **love**.
 + So they form rough **outline** for this 7-part series:
 
 ---
+<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
 ## 1 Thessalonians
 ### Growing Together, While Apart
 + 1: Impact of **Faith** (Thes)
@@ -184,7 +187,7 @@ in our Lord Jesus Christ.
 + **Persevere** in serving Him bc of assurance of **hope**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> class="outline" -->
 ## Impact of Faith [(1Thes1)](# "ref")
 1. Energy [(v2-3)](# "ref")
 1. **Election** [(v4-5)](# "ref")
@@ -271,7 +274,7 @@ ______
   + So **foreign** to our world
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> class="outline" -->
 ## Impact of Faith [(1Thes1)](# "ref")
 1. Energy [(v2-3)](# "ref")
 1. Election [(v4-5)](# "ref")
