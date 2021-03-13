@@ -35,7 +35,7 @@
 + the Word which lets us **behold the Lamb** of God
 
 ---
-<!-- .slide: <%= bg("https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_the_Apostle%2C_second_missionary_journey.svg") %> class="empty" -->
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_the_Apostle%2C_second_missionary_journey.svg" class="empty" -->
 [Roberto Reggi](https://commons.wikimedia.org/wiki/File:Paul_the_Apostle,_second_missionary_journey.svg "caption")
 
 >>>
@@ -94,11 +94,15 @@ but the greatest of these is **love**.
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
-## 1 Thessalonians
-### Growing Together, While Apart
+### 1 Thessalonians
+<!-- .element: style="font-size: 1rem" -->
+
+## Growing Together, While Apart
+<!-- .element: style="font-size: 1.4rem" -->
+
 + 1: Impact of **Faith** (Thes)
 + 2a+b: Toil of **Love** (Paul)
-+ 3: Strength from **Hope** (Tim's report)
++ 3: Strength from **Hope** (Tim)
 + 4: Growing in Purity + **Love**
 + 5a: **Hope** of Salvation
 + 5b: Acts of **Faith**
