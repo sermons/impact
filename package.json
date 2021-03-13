@@ -22,10 +22,34 @@
     },
     "history": [
       {
+        "venue": "Tri-City Chinese Christian Church (MB)",
+        "city": "Port Moody",
+        "date": "2021-04-25",
+        "duration": 25
+      },
+      {
+        "venue": "Zion Christian Reformed Church",
+        "city": "Abbotsford",
+        "date": "2021-04-18",
+        "duration": 0
+      },
+      {
+        "venue": "Bethel Chinese Christian MB Church",
+        "city": "Vancouver",
+        "date": "2021-04-11",
+        "duration": 25
+      },
+      {
+        "venue": "First Chinese NA Baptist Church",
+        "city": "Vancouver",
+        "date": "2021-03-28",
+        "duration": 25
+      },
+      {
         "venue": "Pacific Grace MB Church",
         "city": "South Vancouver",
         "date": "2021-03-14",
-        "duration": 0
+        "duration": 25
       }
     ],
     "slides": [
