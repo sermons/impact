@@ -20,8 +20,8 @@ module.exports = (grunt) ->
       plugin:
         expand: true
         flatten: true
-        src: 'node_modules/reveal.js/plugin/notes/*'
-        dest: 'dist/js/'
+        src: 'node_modules/socket.io-client/dist/*'
+        dest: 'dist/lib/socket.io/'
 
     sass:
       options:
@@ -47,7 +47,7 @@ module.exports = (grunt) ->
     exec:
       print: 'decktape -s 1024x768 --screenshots --screenshots-size 1920x1080 --screenshots-format jpg --screenshots-directory dist/img --chrome-arg=--no-sandbox reveal "http://localhost:9000/" print.pdf'
       reducePDF: 'gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=dist/<%= pkg.shortname %>.pdf print.pdf'
-      thumbnail: "convert -geometry '390x390>' dist/img/print_1_* dist/img/<%= pkg.shortname %>.png"
+      thumbnail: "convert -geometry '330x330>' dist/img/print_1_* dist/img/<%= pkg.shortname %>.png"
       qr: 'echo https://<%= pkg.config.pretty_url %> | qrcode -o dist/img/<%= pkg.shortname %>-qr.png'
 
   # Macros for convenience
