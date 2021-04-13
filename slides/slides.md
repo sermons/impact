@@ -96,12 +96,11 @@ but the greatest of these is **love**.
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
 ## Growing Together, While Apart <br> 當分開時一起成長
-<!-- .element: class="r-fit-text" -->
 
-+ [1:](# "ref") Impact of **Faith** 信心的影響
++ [1:](# "ref") Impact of **Faith** (Thes) 信心的影響
 + [2a+b:](# "ref") Toil of **Love** (Paul) 愛心的勞苦
 + [3:](# "ref") Strength from **Hope** (Tim) 來自盼望的力量
-+ [4:](# "ref") Growing in Purity + **Love** 在清潔和愛中成長
++ [4:](# "ref") Grow in Purity + **Love** 在清潔和愛中成長
 + [5a:](# "ref") **Hope** of Salvation 救贖的盼望
 + [5b:](# "ref") Acts of **Faith** 信心的行為
 
@@ -183,7 +182,10 @@ in our Lord Jesus Christ.
 
 ---
 <!-- .slide: data-background="white" -->
-# Are my **actions** driven by God's <br> **faith**, **hope**, and **love**? <br> 我的行為是否是 <br> 被神的信望愛所驅動?
+# Are my **actions** driven by God's <br> **faith**, **hope**, and **love**? 
+<!-- .element: class="r-fit-text" -->
+
+# 我的行為是否是 <br> 被神的信望愛所驅動?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -268,7 +270,10 @@ speaking in **tongues** and **extolling** God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I experienced the **Holy Spirit's** <br> power as the gospel is proclaimed? <br> 當福音被傳講時, <br> 我是否經歷了聖靈的大能?
+# Have I experienced the **Holy Spirit's** <br> power as the gospel is proclaimed?
+<!-- .element: class="r-fit-text" -->
+
+# 當福音被傳講時, <br> 我是否經歷了聖靈的大能?
 <!-- .element: class="r-fit-text" -->
 
 >>>
