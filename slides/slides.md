@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> id="title" -->
 # The Impact of Faith <br> 信心的影響
-## 1 Thessalonians 帖撒羅尼迦前書 1:2-10
+## 1 Thessalonians <br> 帖撒羅尼迦前書 1:2-10
 
 >>>
 + **Miss** you: hear what **God's** been doing in your life
@@ -51,7 +51,7 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> id="outline" class="outline" -->
-## 1 Thess. 帖撒羅尼迦前書 [1:2-10](# "ref")
+## Impact of Faith 信心的影響
 1. **Energy 能量** [(v2-3)](# "ref")
 1. **Election 揀選** [(v4-5)](# "ref")
 1. **Example 榜樣** [(v6-10)](# "ref")
@@ -183,8 +183,7 @@ in our Lord Jesus Christ.
 
 ---
 <!-- .slide: data-background="white" -->
-# Are my **actions** driven by God's <br> **faith**, **hope**, and **love**? <br> 
-我的行為是否是 <br> 被神的信望愛所驅動?
+# Are my **actions** driven by God's <br> **faith**, **hope**, and **love**? <br> 我的行為是否是 <br> 被神的信望愛所驅動?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -194,10 +193,10 @@ in our Lord Jesus Christ.
 
 ---
 <!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> class="outline" -->
-## Impact of Faith [(1Thes1)](# "ref")
-1. Energy [(v2-3)](# "ref")
-1. **Election** [(v4-5)](# "ref")
-1. Example [(v6-10)](# "ref")
+## Impact of Faith 信心的影響
+1. Energy 能量 [(v2-3)](# "ref")
+1. **Election 揀選** [(v4-5)](# "ref")
+1. Example 榜樣 [(v6-10)](# "ref")
 
 >>>
 + 1. Paul **thanks** God
@@ -269,8 +268,7 @@ speaking in **tongues** and **extolling** God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I experienced the **Holy Spirit's** <br> power as the gospel is proclaimed? <br> 
-當福音被傳講時, <br> 我是否經歷了聖靈的大能?
+# Have I experienced the **Holy Spirit's** <br> power as the gospel is proclaimed? <br> 當福音被傳講時, <br> 我是否經歷了聖靈的大能?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -283,10 +281,10 @@ ______
 
 ---
 <!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> class="outline" -->
-## Impact of Faith [(1Thes1)](# "ref")
-1. Energy [(v2-3)](# "ref")
-1. Election [(v4-5)](# "ref")
-1. **Example** [(v6-10)](# "ref")
+## Impact of Faith 信心的影響
+1. Energy 能量 [(v2-3)](# "ref")
+1. Election 揀選 [(v4-5)](# "ref")
+1. **Example 榜樣** [(v6-10)](# "ref")
 
 >>>
 1. Energy: **work** we do serving God motiv by **FHL**
@@ -413,7 +411,7 @@ who **delivers** us from the wrath to come.
 
 ---
 <!-- .slide: data-background="white" -->
-## How does my faith in Christ <br> **impact** others? <br> 我在基督裡的信心如何影響別人？
+## How does my faith in Christ <br> **impact** others? <br> 我在基督裡的信心 <br> 如何影響別人？
 <!-- .element: class="r-fit-text" -->
 
 >>>
