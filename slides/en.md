@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> id="title" -->
-# The Impact of Faith <br> 信心的影響
-## 1 Thessalonians 帖撒羅尼迦前書 1:2-10
+# The Impact of Faith
+## 1 Thessalonians 1:2-10
 
 >>>
 + **Miss** you: hear what **God's** been doing in your life
@@ -12,8 +12,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# **How** do I make a <br> **difference** in others' lives? <br> 我如何在別人的 <br> 生命中有所作為?
-<!-- .element: class="r-fit-text" -->
+# **How** do I <br> make a **difference** <br> in others' lives?
 
 >>>
 + I chose series on 1Thes to **encourage** you:
@@ -51,10 +50,10 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> id="outline" class="outline" -->
-## 1 Thess. 帖撒羅尼迦前書 [1:2-10](# "ref")
-1. **Energy 能量** [(v2-3)](# "ref")
-1. **Election 揀選** [(v4-5)](# "ref")
-1. **Example 榜樣** [(v6-10)](# "ref")
+## Impact of Faith [(1Thes1)](# "ref")
+1. **Energy** [(v2-3)](# "ref")
+1. **Election** [(v4-5)](# "ref")
+1. **Example** [(v6-10)](# "ref")
 
 >>>
 + 1. Thanks God for **work** Thess have been doing
@@ -95,17 +94,18 @@ but the greatest of these is **love**.
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
-## Growing Together, While Apart <br> 當分開時一起成長
-<!-- .element: class="r-fit-text" -->
+### 1 Thessalonians
+<!-- .element: style="font-size: 1rem" -->
 
-+ [1:](# "ref") Impact of **Faith** 信心的影響
-+ [2a+b:](# "ref") Toil of **Love** (Paul) 愛心的勞苦
-+ [3:](# "ref") Strength from **Hope** (Tim) 來自盼望的力量
-+ [4:](# "ref") Growing in Purity + **Love** 在清潔和愛中成長
-+ [5a:](# "ref") **Hope** of Salvation 救贖的盼望
-+ [5b:](# "ref") Acts of **Faith** 信心的行為
+## Growing Together, While Apart
+<!-- .element: style="font-size: 1.4rem" -->
 
-<!-- .element: class="r-fit-text" -->
++ 1: Impact of **Faith** (Thes)
++ 2a+b: Toil of **Love** (Paul)
++ 3: Strength from **Hope** (Tim)
++ 4: Growing in Purity + **Love**
++ 5a: **Hope** of Salvation
++ 5b: Acts of **Faith**
 
 >>>
 + Although Paul was unable to **visit** them in person,
@@ -183,9 +183,7 @@ in our Lord Jesus Christ.
 
 ---
 <!-- .slide: data-background="white" -->
-# Are my **actions** driven by God's <br> **faith**, **hope**, and **love**? <br> 
-我的行為是否是 <br> 被神的信望愛所驅動?
-<!-- .element: class="r-fit-text" -->
+# Are my **actions** driven by God's **faith**, **hope**, and **love**?
 
 >>>
 + Gain **productivity** from faith in God's promises
@@ -269,9 +267,7 @@ speaking in **tongues** and **extolling** God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I experienced the **Holy Spirit's** <br> power as the gospel is proclaimed? <br> 
-當福音被傳講時, <br> 我是否經歷了聖靈的大能?
-<!-- .element: class="r-fit-text" -->
+# Have I experienced the **Holy Spirit's** power as the gospel is proclaimed?
 
 >>>
 + Whether I'm the **hearer** or the **proclaimer**
@@ -408,13 +404,8 @@ who **delivers** us from the wrath to come.
 
 ---
 <!-- .slide: data-background="white" -->
-## Whose **faith journey** <br> has impacted me? <br> 誰的信心之旅影響過我？
-<!-- .element: class="r-fit-text" -->
-
----
-<!-- .slide: data-background="white" -->
-## How does my faith in Christ <br> **impact** others? <br> 我在基督裡的信心如何影響別人？
-<!-- .element: class="r-fit-text" -->
+## Whose **faith journey** <br> has impacted me? 
+## How does my faith in Christ <br> **impact** others? 
 
 >>>
 + Needn't be **long-term** mentor: e.g., Paul w/Thess
