@@ -96,6 +96,7 @@ but the greatest of these is **love**.
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
 ## Growing Together, While Apart <br> 當分開時一起成長
+<!-- .element: class="r-fit-text" -->
 
 + [1:](# "ref") Impact of **Faith** (Thes) 信心的影響
 + [2a+b:](# "ref") Toil of **Love** (Paul) 愛心的勞苦
