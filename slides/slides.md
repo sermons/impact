@@ -98,12 +98,12 @@ but the greatest of these is **love**.
 ## Growing Together, While Apart <br> 當分開時一起成長
 <!-- .element: class="r-fit-text" -->
 
-+ [1:](# "ref") Impact of **Faith** (Thes) 信心的影響
-+ [2a+b:](# "ref") Toil of **Love** (Paul) 愛心的勞苦
-+ [3:](# "ref") Strength from **Hope** (Tim) 來自盼望的力量
-+ [4:](# "ref") Grow in Purity + **Love** 在清潔和愛中成長
-+ [5a:](# "ref") **Hope** of Salvation 救贖的盼望
-+ [5b:](# "ref") Acts of **Faith** 信心的行為
++ *1* Impact of **Faith** 信心的影響
++ *2a+b* Toil of **Love** 愛心的勞苦
++ *3* Strength from **Hope** 來自盼望的力量
++ *4* Grow in Purity + **Love** 在清潔和愛中成長
++ *5a* **Hope** of Salvation 救贖的盼望
++ *5b* Acts of **Faith** 信心的行為
 
 <!-- .element: class="r-fit-text" -->
 
