@@ -1,6 +1,7 @@
 <!-- .slide: <%= bg("unsplash-WPTHZkA-M4I-fireworks.jpg") %> id="title" -->
 # The Impact of Faith <br> 信心的影響
 ## 1 Thessalonians <br> 帖撒羅尼迦前書 1:2-10
+[Perros-Guirec, France. Erwan Hesry](https://unsplash.com/photos/WPTHZkA-M4I "caption")
 
 >>>
 + **Miss** you: hear what **God's** been doing in your life
